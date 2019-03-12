@@ -1,0 +1,65 @@
+body{
+	font-family: "Loto" ,'sans-serif';
+	margin: 70px 0px;
+	background: #0069d6;
+}
+.divider{
+	width: 100px;
+	height: 5px;
+	background: orange;
+	margin:0 auto;
+}
+.heading{
+	text-align: center;
+	margin-bottom: 60px;
+}
+.h2{
+	text-transform: uppercase;
+	font-weight: bold;
+	color: #ffffff;
+
+}
+
+#contact-form{
+	margin:0 auto;
+	background-color:#ffffff;
+	padding: 40px;
+	border-radius: 10px;
+}
+.blue{
+	color:#0069d6;
+}
+.formo-control{
+	height: 50px;
+	font-size: 18px;
+}
+.coment{
+	font-style: italic;
+	font-size: 18px;
+	color: red;
+	height: 25px;;
+}
+.valide{
+	display: block;
+	margin: 40px  auto 0px;
+	background: orange;
+	border-radius: 5px;
+	border: 1px solid #ddd;
+	color: #ffffff;
+	padding: 18px;
+	font-weight: bold;
+	text-transform: uppercase;
+	width: 100%;
+	transition: all 0.3 ease-in 0s; 
+}
+.valide :hover{
+	background: rgb(61, 43, 9);
+	border-color: orange;
+}
+.merci{
+	text-align: center;
+	margin-top:15px;
+	font-size: 22px; 
+	
+}
+
